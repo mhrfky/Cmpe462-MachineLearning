@@ -1,0 +1,5 @@
+certifi==2020.12.5
+click==8.0.0
+joblib==1.0.1
+tqdm==4.60.0
+matplotlib==3.4.2
